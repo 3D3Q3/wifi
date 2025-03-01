@@ -1,0 +1,4 @@
+alias ..='cd ..'
+alias CYA='sudo reboot now'
+alias BYE='sudo shutdown now'
+alias sysi='service --status-all'

@@ -5,10 +5,5 @@
 sudo hcxdumptool -i wlx00c0cab6e1e6 -o dump.pcapng --enable_status=31
 sudo hcxdumptool -i wlx00c0cab6e1e6 --enable_status=31
 sudo hcxdumptool -i wlan0 -o dump.pcapng --enable_status=31
-https://github.com/3D3Q3/wifi/tree/main
-_ = sudo
-_i = sudo -i
-fucking
-please = sudo
 
 ---------------------------
